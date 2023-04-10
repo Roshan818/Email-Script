@@ -2,15 +2,20 @@
 
 ### HOW TO USE
 
-
- 1. ``` 
-    git clone https://github.com/ThePrakharRajpali/Email-script.git
- 2. ``` 
-    npm install 
- 3. ``` 
-    npm run start 
+1.  ```
+    git clone https://github.com/Roshan818/Email-Script.git
     ```
-Note: Before running the script, your gmail id should allow login access in less secure app.
+2.  ```
+    cd Email-Script
+    ```
+3.  ```
+    npm install
+    ```
+4.  ````
+        npm run start
+        ```
+    Note: Before running the script on your gmail id should allow login access in less secure app and change the smtp.
+    ````
 
 For allowing login access:
 
